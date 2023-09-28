@@ -8,8 +8,8 @@ The score is calculated with each take (n \* (n - 1) where n is the number of de
 You can select different levels of play: 3, 4 or 5 colors (easy,medium,hardcore), you can also select a different board size.
 ## Getting Started
 
-To get started with the game, simply open the `SameGame.jar` file. Please note that a minimum of Java 16 is required for the game to run correctly. Make sure you have Java 16 or a higher version installed on your system before launching the game.
-
+To get started with the game, simply open the `SameGame.jar` file.
+> **_NOTE:_** Please note that a minimum of Java 16 is required for the game to run correctly. Make sure you have Java 16 or a higher version installed on your system before launching the game.
 #### Design pattern used
  - Facade pattern
  - Command pattern
