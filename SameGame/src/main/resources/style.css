@@ -1,0 +1,81 @@
+.root {
+    -fx-background-color: BLACK;
+    -fx-text-fill: white !important;
+}
+
+.root .label {
+    -fx-text-fill: white !important;
+}
+/*----- Menu Css -----*/
+
+.menu  {
+    -fx-border-width: 1px;
+}
+
+.menu .label {
+    -fx-font-size: 15px;
+}
+
+.menu-bar {
+    -fx-background-color: BLACK;
+    -fx-border-width: 0px 0px 1px 0px;
+    -fx-border-color: white;
+}
+
+.context-menu {
+    -fx-background-color: BLACK;
+    -fx-border-width: 1px;
+    -fx-border-color: white;
+}
+
+/*--------------------*/
+
+/*----- Board Css -----*/
+.alertBar {
+    -fx-alignment: center;
+    -fx-text-alignment: center;
+    -fx-font-size: 15;
+    -fx-min-width: 100px;
+    -fx-min-height: 25px;
+    -fx-max-height: 25px;
+}
+
+.board {
+    -fx-alignment: bottom-center;
+    -fx-margin: 15px;
+    -fx-min-height: 600px;
+    -fx-max-width: 800px;
+}
+
+.tileFx {
+    -fx-stroke: black;
+    -fx-stroke-width: 3;
+}
+/*---------------------*/
+
+/*----- Footer Css -----*/
+.footer{
+    -fx-spacing: 50;
+    -fx-alignment: center;
+    -fx-border-width: 1px 0px 1px 0px;
+    -fx-border-color: white;
+    -fx-min-height: 65px;
+    -fx-min-width: 1000px;
+}
+
+#button-container{
+    -fx-spacing: 0px;
+    -fx-padding: 10px;
+}
+
+.button {
+    -fx-padding: 50px;
+    -fx-min-width: 100px;
+}
+
+.footer .label {
+    -fx-font-size: 20;
+    -fx-min-width: 150px;
+}
+/*----------------------*/
+
